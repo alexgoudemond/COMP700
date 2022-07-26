@@ -1,0 +1,6 @@
+import cv2
+print(cv2.THRESH_BINARY_INV)
+
+print(cv2.THRESH_TRIANGLE)
+
+print(cv2.ADAPTIVE_THRESH_GAUSSIAN_C)
